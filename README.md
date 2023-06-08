@@ -8,4 +8,6 @@
 - Fully responsive
 - Simple and optimized coding
 <br/>
-![Preview](/gif.gif)
+
+
+![gif](https://github.com/ixAmirCom/snake-game/assets/120335131/e74b4ab7-00c4-45c3-b764-9514378fa21e)
