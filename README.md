@@ -8,3 +8,4 @@
 - Fully responsive
 - Simple and optimized coding
 <br/>
+![Preview](/gif.gif)
